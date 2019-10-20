@@ -1,23 +1,10 @@
-# Kangle一键脚本
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-
 <meta name="description" content="本脚本是一键安装Kangle+Easypanel+Mysql的集合脚本。脚本本身集成：PHP5.3-7.3、MYSQL5.6。使用方便，功能强大。" />
-<script>
-function stop(){
-return false;
-}
-document.oncontextmenu=stop;
-</script>
 </head>
 <body>
-<section class="page-header">
 <h1 class="project-name">Kangle一键脚本</h1>
 <h2 class="project-tagline">本脚本是一键安装Kangle+Easypanel+Mysql的集合脚本</h2>
-<a href="http://blog.cccyun.cc/" target="_blank" class="btn">个人博客</a>
-<a href="http://www.cccyun.net/" target="_blank" class="btn">高防主机</a>
-<a href="http://url.cccyun.cc/" target="_blank" class="btn">域名转发</a>
 </section>
 <section class="main-content">
 <div>
