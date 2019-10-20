@@ -264,7 +264,7 @@ function setvhms(){
 }
 function Update(){
 	cd $tmpfile
-	links="http://kangle.odata.cc"
+	links="https://raw.githubusercontent.com/haoduck/kangle/master"
 	wget -q $links/config -O $files/config
 	wget -q $links/main.sh -O main.sh;
 	cp -f main.sh /usr/bin/kanglesh
