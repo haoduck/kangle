@@ -43,7 +43,7 @@
 <h2><a href="http://kangle.odata.cc/kangle_odata_default.html#header-install"></a>安装方式</h2>
 <div>
 <h4><span>请复制以下指令到ssh连接软件粘贴执行</span></h4>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><strong><code>yum -y install wget;wget http://kangle.odata.cc/start;sh start</code></strong>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><strong><code>yum -y install wget;wget https://raw.githubusercontent.com/haoduck/kangle/master/start;sh start</code></strong>
 </pre></div></div>
 <hr />
 </div>
