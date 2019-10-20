@@ -3,28 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="keywords" content="kangle,easypanel,kangle商业版,kangle破解版,kangle一键脚本,kangle.odata.cc" />
 <meta name="description" content="本脚本是一键安装Kangle+Easypanel+Mysql的集合脚本。脚本本身集成：PHP5.3-7.3、MYSQL5.6。使用方便，功能强大。" />
-<link href='http://fonts.loli.net/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="style.css">
-<style>
-	h4 span {
-    font-size: 0.9em;
-    margin-left: 5px;
-    color: #999;
-    font-weight: 400;
-	}
-	.site-footer-credits a {
-	color: #819198;
-	}
-	section div{
-	margin-bottom: 30px;
-	}
-	.highlighter-rouge{
-	margin-bottom: 20px;
-	}
-</style>
 <script>
 function stop(){
 return false;
